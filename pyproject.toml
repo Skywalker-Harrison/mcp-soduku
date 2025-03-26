@@ -1,0 +1,17 @@
+[project]
+name = "sodukusolver"
+version = "0.1.0"
+description = "A MCP server project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [ "mcp>=1.4.1",]
+[[project.authors]]
+name = "Skywalker-Harrison"
+email = "1091181044@qq.com"
+
+[build-system]
+requires = [ "hatchling",]
+build-backend = "hatchling.build"
+
+[project.scripts]
+sodukusolver = "sodukusolver:main"
