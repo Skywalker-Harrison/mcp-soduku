@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/skywalker-harrison-mcp-soduku-badge.png)](https://mseep.ai/app/skywalker-harrison-mcp-soduku)
+
 # sodukusolver MCP server
 
 A MCP server project
